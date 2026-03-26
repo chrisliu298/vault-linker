@@ -1,5 +1,6 @@
 ---
 name: vault-linker
+user-invocable: true
 description: >
   Build connections across an entire Obsidian vault using a large team of parallel agents.
   Adds inline wikilinks where concepts are mentioned but not linked, populates ## Related

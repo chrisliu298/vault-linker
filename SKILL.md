@@ -7,6 +7,7 @@ description: >
   frontmatter aliases, and auto-reviews via two independent reviewer agents. Use when asked
   to "link the vault", "build connections", "add wikilinks across notes", "connect my notes",
   or any request to improve the link graph of an Obsidian vault. Invoke with /vault-linker.
+effort: high
 ---
 
 # Vault Linker
